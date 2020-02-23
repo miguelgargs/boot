@@ -46,3 +46,14 @@ running the application. This includes setting up the clocks, powering on the I/
 initializing the secondary memory i.e. DDR, loading application images and booting slave cores.
 Advanced Driver Assist Systems (ADAS) have very specific boot requirements regarding boot
 time and functional safety. 
+
+## MSMDownloadTool
+Yo pensaba que esta herramienta escribe en toda la memoria. En XDA dicen que no, que es posible que no escriba todas las particiones que debería escribir.
+Aquí hay un tío llorando con un caso similar al mío:
+
+https://forum.xda-developers.com/oneplus-6t/help/bricked-oneplus-6t-msmdownloadtool-t3900145/page2
+
+He desmontado el móvil y lo he vuelto a montar sin conseguir nada. Se sigue colgando en el inicio.
+
+Se instaló Hydrogen el otro día con MSM, creo. No lo hice yo. He usado MSM para instalar Oxygen 9 (6T_MsmDownloadTool_v4.0.58_OOS_v9.0.5) y ahora la animación de inicio da más vueltas.
+No sé qué habrá sucedido, quizás Hydrogen ha escrito sobre las particiones.
