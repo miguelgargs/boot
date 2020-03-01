@@ -85,4 +85,4 @@ https://www.getdroidtips.com/how-to-backup-or-restore-qcn-efs-on-qualcomm-device
 Hoy lo he intentado iniciar como siempre y después de un par de vueltas la pantalla se ha quedado de color blanco. No sé qué ha pasado, no he podido volver a reproducirlo. Supongo que ha intentado mostrar alguna imagen de batería baja, pero cuando lo he enchufado al cargador mostraba el 29% de batería.
 Lo he cargado con el adaptador de pared y funciona la carga rápida.
 Imagen:
-![alt text](urldeimagenaqui "Pantalla en blanco")
+![alt text](https://github.com/miguelgargs/boot/blob/master/whitescreen.jpg "Pantalla en blanco")
