@@ -112,3 +112,4 @@ Yo pienso que debe haber un mal contacto y por eso se arregla al apretar, Juan d
 Ya he descubierto dónde hay que pulsar. Pulsando donde el círculo rojo el teléfono inicia. Pero la pantalla no responde. Seguiré trabajando en ello.
 
 ![alt text](https://github.com/miguelgargs/boot/blob/master/dondepulsar.png "Dónde pulsar")
+Imagen de iFixit.
