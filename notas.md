@@ -118,3 +118,4 @@ Imagen de iFixit.
 Sabiendo dónde hay que pulsar para conseguir que el teléfono inicie, según ha iniciado he pulsado en el botón "Start" y la pantalla ha funcionado, cambiando a la siguiente pestaña. 
 Pero pasado ese instante inicial ha dejado de responder. 
 Seguimos investigando.
+Otra cosa que he descubierto es que justo cuando se apaga tras intentar reiniciarse no responde al botón de encendido sino que la pantalla continúa apagada y no se oye la vibración hasta un par de segundos después. ¿Quizás está procesando algo, y no está completamente apagado?
