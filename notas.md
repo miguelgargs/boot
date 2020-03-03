@@ -104,3 +104,5 @@ He quitado la tapa de atrás. He comprobado con Juan y resulta que la zona que e
 Esta vez he apretado la parte de atrás y le he dado a encender. Se ha encendido. Y de repente se ha apagado.
 
 Yo pienso que debe haber un mal contacto y por eso se arregla al apretar, Juan dice que puede ser un bus en mal estado.
+
+![alt text](https://github.com/miguelgargs/boot/blob/master/arranque.jpg "Pantalla de bienvenida")
