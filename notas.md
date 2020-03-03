@@ -124,3 +124,6 @@ Otra cosa que he descubierto es que justo cuando se apaga tras intentar reinicia
 #### Aclaración 2
 Cuando el teléfono inicia correctamente (hacia la pantalla de configuración) la animación de las bolas girando en oxygen os es muy corta, casi instantánea. Sin embargo, cuando el boot falla, la animación da muchas vueltas. 
 Parece interesante.
+
+(4/3/2020) Respecto a la pantalla, he leído que puede deberse al software. Intentaré instalar una versión más reciente con MSM.
+Fuente: (https://forums.oneplus.com/threads/screen-not-responding-to-touch.937201/)
