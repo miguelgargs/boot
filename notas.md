@@ -105,4 +105,5 @@ Esta vez he apretado la parte de atrás y le he dado a encender. Se ha encendido
 
 Yo pienso que debe haber un mal contacto y por eso se arregla al apretar, Juan dice que puede ser un bus en mal estado.
 
-![alt text](https://github.com/miguelgargs/boot/blob/master/arranque.jpg "Pantalla de bienvenida")
+
+![alt text](https://github.com/miguelgargs/boot/blob/master/arranque.jpeg "Pantalla de bienvenida")
