@@ -97,3 +97,10 @@ Lo he cogido y lo he levantado y de repente se ha apagado.
 - teniendo en cuenta lo anterior, parece ser algún fallo de hardware.
 
 No tengo foto porque no me ha dado tiempo a hacerla. 
+
+### Actualización 2
+He quitado la tapa de atrás. He comprobado con Juan y resulta que la zona que estaba tan caliente es donde estaban la memoria y el procesador. 
+
+Esta vez he apretado la parte de atrás y le he dado a encender. Se ha encendido. Y de repente se ha apagado.
+
+Yo pienso que debe haber un mal contacto y por eso se arregla al apretar, Juan dice que puede ser un bus en mal estado.
