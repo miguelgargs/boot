@@ -86,3 +86,14 @@ Hoy lo he intentado iniciar como siempre y después de un par de vueltas la pant
 Lo he cargado con el adaptador de pared y funciona la carga rápida.
 Imagen:
 ![alt text](https://github.com/miguelgargs/boot/blob/master/whitescreen.jpg "Pantalla en blanco")
+
+## Actualización 3/3/2020
+Hoy le he iniciado un par de veces como suelo hacer y se quedaba bloqueado y se apagaba.
+Lo he encendido una tercera vez y cuando me he dado cuenta estaba en la pantalla de bienvenida.
+Lo he cogido y lo he levantado y de repente se ha apagado.
+
+- el software se escribe correctamente en el teléfono. No hace falta utilizar el modo smt de MSM (lo borraría todo)
+- cuando cogí el teléfono estaba muy caliente por detrás, en la zona donde está el selector de modos de sonido.
+- teniendo en cuenta lo anterior, parece ser algún fallo de hardware.
+
+No tengo foto porque no me ha dado tiempo a hacerla. 
