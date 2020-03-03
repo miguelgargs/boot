@@ -113,3 +113,8 @@ Ya he descubierto dónde hay que pulsar. Pulsando donde el círculo rojo el tel�
 
 ![alt text](https://github.com/miguelgargs/boot/blob/master/dondepulsar.png "Dónde pulsar")
 Imagen de iFixit.
+
+### Actualización 4
+Sabiendo dónde hay que pulsar para conseguir que el teléfono inicie, según ha iniciado he pulsado en el botón "Start" y la pantalla ha funcionado, cambiando a la siguiente pestaña. 
+Pero pasado ese instante inicial ha dejado de responder. 
+Seguimos investigando.
