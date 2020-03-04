@@ -127,3 +127,6 @@ Parece interesante.
 
 (4/3/2020) Respecto a la pantalla, he leído que puede deberse al software. Intentaré instalar una versión más reciente con MSM.
 Fuente: (https://forums.oneplus.com/threads/screen-not-responding-to-touch.937201/)
+
+### Actualización 5 
+(4/3/2020) he vuelto a apretar en toda la zona superior del teléfono (por detrás) y se ha puesto la pantalla en blanco. No ha arrancado, pero sí ha hecho algo.
