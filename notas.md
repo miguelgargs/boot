@@ -137,4 +137,4 @@ Conseguí hacer todo el tutorial de configurar el teléfono (pulsando Next a tod
 Intento conectarlo al WiFi, pero no me da tiempo a escribir la contraseña antes de que se bloquee. 
 No entiendo qué es lo que sucede. He pensado que quizás puede ser el motor de vibración, que hace que algún componente vibre y se suelte el componente que está suelto en el teléfono, o quizás sea un bus de datos en mal estado.
 
-Seguimos investigando.
+Voy a intentar activar ADB y Logcat para ver el log de lo que sucede.
