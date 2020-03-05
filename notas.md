@@ -130,3 +130,11 @@ Fuente: (https://forums.oneplus.com/threads/screen-not-responding-to-touch.93720
 
 ### Actualización 5 
 (4/3/2020) he vuelto a apretar en toda la zona superior del teléfono (por detrás) y se ha puesto la pantalla en blanco. No ha arrancado, pero sí ha hecho algo.
+
+### Actualización 6
+(4/3/2020) apretando en la parte de atrás, cerca del procesador y la memoria, consigue que el teléfono arranque. Muchas veces se bloquea en la animación, o se bloquea en el cuadrado de OxygenOS, pero otras veces entra en el sistema y me lleva al escritorio. 
+Conseguí hacer todo el tutorial de configurar el teléfono (pulsando Next a toda velocidad).
+Intento conectarlo al WiFi, pero no me da tiempo a escribir la contraseña antes de que se bloquee. 
+No entiendo qué es lo que sucede. He pensado que quizás puede ser el motor de vibración, que hace que algún componente vibre y se suelte el componente que está suelto en el teléfono, o quizás sea un bus de datos en mal estado.
+
+Seguimos investigando.
