@@ -138,3 +138,18 @@ Intento conectarlo al WiFi, pero no me da tiempo a escribir la contraseña antes
 No entiendo qué es lo que sucede. He pensado que quizás puede ser el motor de vibración, que hace que algún componente vibre y se suelte el componente que está suelto en el teléfono, o quizás sea un bus de datos en mal estado.
 
 Voy a intentar activar ADB y Logcat para ver el log de lo que sucede.
+
+### Actualización 7
+Después de un par de días intentándolo, he activado adb. No he activado logcat aún porque no he sabido. Cuando utilizo el teléfono al cabo de un par de segundos se bloquea o se pone la pantalla en blanco y se reinicia.
+
+### Actualización 8 (18/3/2020)
+Lo llevé a una tienda de reparaciones. Hoy he hablado con ellos. Me han dicho que es fallo del chip de memoria. 
+Le han pasado un programa de diagnóstico (desconozco cuál) y haciendo reballing de la memoria pasa todo en verde. Arrancan, la pantalla se congela al minuto y medio y se reinicia. Al volverl a pasar el programa, devuelve error de memoria.
+La solución es cambiar la placa.
+Si lo único que falla es la memoria, creo que cambiando el chip de memoria y copiando todo el contenido de la anterior (por IMEI y etc) a la nueva podría funcionar. Eso teniendo en cuenta que sea sólo fallo de memoria.
+Ahora que lo pienso, no sé qué memoria falla. Puede ser la RAM o puede ser almacenamiento flash.
+Tengo que recordar preguntar.
+Bien, después de ver el esquema, no puede ser la RAM porque va soldada al procesador, debe ser el almacenamiento flash.
+## Specs: aviso. Datos tomados del desmontaje del OnePlus 6 en iFixit. No es el mismo modelo pero los componentes son iguales.
+- 128GB Flash Storage: Samsung KLUDG4U1EA-B0C1
+- Samsung K3UH7H70MM-AGCJ 8 GB
